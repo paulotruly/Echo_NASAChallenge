@@ -8,7 +8,7 @@ const PopUpNotification = ({onClick, onClose}) => {
       className="flex flex-row items-center justify-center gap-4 bg-white rounded-full shadow-2xl p-6 w-auto h-20 animate-fadeIn cursor-pointer">
         <img src={Logo} alt="Logo" className="w-auto h-[40px]" />
         <p className="text-gray-600 font-medium m-0">
-          O assistente de IA tem uma sugestão pra você
+          AI assistant has a suggestion for you
         </p>
         <button
         onClick={(e) => {
