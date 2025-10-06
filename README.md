@@ -27,7 +27,7 @@ The objective is to demonstrate how urban planners can leverage NASA Earth obser
 
 | Name | Role | LinkedIn |
 |------|------|-----------|
-| Kaiki Nattan | Full stack developer | [linkedin.com/in/paulogomes](https://www.linkedin.com/in/kaikinattan) |
+| Kaiki Nattan | Full stack developer | [linkedin.com/in/kaikinattan](https://www.linkedin.com/in/kaikinattan) |
 | Paulo Gomes | Front-end developer | [linkedin.com/in/paulotruly](https://www.linkedin.com/in/paulotruly) |
 | Ester Santos | UX/UI designer | [linkedin.com/in/ester-hsnt](https://linkedin.com/in/ester-hsnt) |
 | João Rafael | Front-end developer | [linkedin.com/in/joao-rafaell](https://linkedin.com/in/joao-rafaell) |
