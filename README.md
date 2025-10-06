@@ -23,6 +23,51 @@ The objective is to demonstrate how urban planners can leverage NASA Earth obser
 
 ---
 
+## Installation and setup
+
+### Prerequisites
+* **IDE** (e.g., Visual Studio Code)
+* **Node.js**
+* **Python 3.8+**
+* A **Git** client
+
+Clone the repository in an empty folder
+```bash
+git clone https://github.com/paulotruly/Echo_NASAChallenge
+```
+Access the project folder
+```bash
+cd Echo_NASAChallenge
+```
+Install the back-end dependencies
+```bash
+pip install -r requirements.txt
+```
+And then, the front-end dependencies
+```bash
+npm install
+```
+Access the front-end folder
+```bash
+cd hackaton_nasa-main
+```
+Run the project
+```bash
+python app.py
+npm run dev
+```
+Run the project
+```bash
+python app.py
+npm run dev
+```
+Access the port through your browser
+```bash
+http://localhost:5173/
+```
+
+---
+
 ## Team
 
 | Name | Role | LinkedIn |
@@ -95,48 +140,3 @@ The objective is to demonstrate how urban planners can leverage NASA Earth obser
 
 * **Data processing:** Pandas / GeoPandas, Rasterio / Shapely
 * **AI/Analysis:** Google **Gemini API** for advanced environmental analysis and insights.
-
----
-
-## Installation and setup
-
-### Prerequisites
-* **IDE** (e.g., Visual Studio Code)
-* **Node.js**
-* **Python 3.8+**
-* A **Git** client
-
-Clone the repository in an empty folder
-```bash
-git clone https://github.com/paulotruly/Echo_NASAChallenge
-```
-Access the project folder
-```bash
-cd Echo_NASAChallenge
-```
-Install the back-end dependencies
-```bash
-pip install -r requirements.txt
-```
-And then, the front-end dependencies
-```bash
-npm install
-```
-Access the front-end folder
-```bash
-cd hackaton_nasa-main
-```
-Run the project
-```bash
-python app.py
-npm run dev
-```
-Run the project
-```bash
-python app.py
-npm run dev
-```
-Access the port through your browser
-```bash
-http://localhost:5173/
-```
