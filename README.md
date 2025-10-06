@@ -43,7 +43,19 @@ Install the back-end dependencies
 ```bash
 pip install -r requirements.txt
 ```
-And then, the front-end dependencies
+Run the processing script
+```bash
+python process_ecostress.py
+```
+Then, run the main application
+```bash
+python main.py
+```
+Back-end will be running at
+```bash
+http://127.0.0.1:5001/
+```
+In another terminal, install the front-end dependencies
 ```bash
 npm install
 ```
@@ -53,12 +65,6 @@ cd hackaton_nasa-main
 ```
 Run the project
 ```bash
-python app.py
-npm run dev
-```
-Run the project
-```bash
-python app.py
 npm run dev
 ```
 Access the port through your browser
