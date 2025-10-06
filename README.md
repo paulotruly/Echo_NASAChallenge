@@ -55,13 +55,14 @@ Back-end will be running at
 ```bash
 http://127.0.0.1:5001/
 ```
-In another terminal, install the front-end dependencies
-```bash
-npm install
-```
-Access the front-end folder
+
+in another terminal, access the front-end folder
 ```bash
 cd hackaton_nasa-main
+```
+then, install the front-end dependencies 
+```bash
+npm install
 ```
 Run the project
 ```bash
