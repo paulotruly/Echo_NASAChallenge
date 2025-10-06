@@ -131,3 +131,12 @@ Run the project
 python app.py
 npm run dev
 ```
+Run the project
+```bash
+python app.py
+npm run dev
+```
+Access the port through your browser
+```bash
+http://localhost:5173/
+```
