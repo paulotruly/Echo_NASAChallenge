@@ -83,7 +83,7 @@ http://localhost:5173/
 | Paulo Gomes | Front-end developer | [linkedin.com/in/paulotruly](https://www.linkedin.com/in/paulotruly) |
 | Ester Santos | UX/UI designer | [linkedin.com/in/ester-hsnt](https://linkedin.com/in/ester-hsnt) |
 | João Rafael | UX | [linkedin.com/in/joao-rafaell](https://linkedin.com/in/joao-rafaell) |
-| Maximus Bragança | Scriptwriter & Video Editor | [linkedin.com/in/maximus-bragança](https://linkedin.com/in/maximus-bragança) |
+| Maximus Bragança | Scriptwriter & video editor | [linkedin.com/in/maximus-bragança](https://linkedin.com/in/maximus-bragança) |
 
 ---
 
