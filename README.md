@@ -82,8 +82,8 @@ http://localhost:5173/
 | Kaiki Nattan | Full stack developer | [linkedin.com/in/kaikinattan](https://www.linkedin.com/in/kaikinattan) |
 | Paulo Gomes | Front-end developer | [linkedin.com/in/paulotruly](https://www.linkedin.com/in/paulotruly) |
 | Ester Santos | UX/UI designer | [linkedin.com/in/ester-hsnt](https://linkedin.com/in/ester-hsnt) |
-| João Rafael | Front-end developer | [linkedin.com/in/joao-rafaell](https://linkedin.com/in/joao-rafaell) |
-| Maximus Bragança | Team manager | [linkedin.com/in/maximus-bragança](https://linkedin.com/in/maximus-bragança) |
+| João Rafael | UX | [linkedin.com/in/joao-rafaell](https://linkedin.com/in/joao-rafaell) |
+| Maximus Bragança | Scriptwriter & Video Editor | [linkedin.com/in/maximus-bragança](https://linkedin.com/in/maximus-bragança) |
 
 ---
 
